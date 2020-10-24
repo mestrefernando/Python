@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 """
+(VS Code)
 Em Português
 Calculadora
 Autor: Fernando Mestre
